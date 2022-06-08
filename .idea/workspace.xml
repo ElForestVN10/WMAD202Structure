@@ -4,28 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9bb4107-fc70-4c91-bb17-4518245948c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WMAD202Structure.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-2022/src/ca/ciccc/main/WMAD202Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-2022/wmad202-2022.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assigment1/src/ca/ciccc/wmad202/assigment1/main/Assigment1Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assigment1/src/ca/ciccc/wmad202/assigment1/question4/Question4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assigment1/wmad202-assigment1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assigment10/wmad202-assigment10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assigment2/wmad202-assigment2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assigment3/wmad202-assigment3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assigment4/wmad202-assigment4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assigment5/wmad202-assigment5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assigment6/wmad202-assigment6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assigment7/wmad202-assigment7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assigment8/wmad202-assigment8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assigment9/wmad202-assigment9.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-lecture-code/wmad202-lecture-code.iml" afterDir="false" />
+    <list default="true" id="c9bb4107-fc70-4c91-bb17-4518245948c2" name="Changes" comment="WMAD202Structure">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,16 +35,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -74,6 +54,14 @@
       <option name="presentableId" value="Default" />
       <updated>1654564652574</updated>
     </task>
+    <task id="LOCAL-00001" summary="WMAD202Structure">
+      <created>1654657961540</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654657961540</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,5 +74,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="WMAD202Structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="WMAD202Structure" />
   </component>
 </project>
